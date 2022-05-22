@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(248, 182, 193);
+    height: 45px;
+}
+
+#esq{
+    background-color: rgb(223, 35, 35);
+    width: 400px;
+    height: 500px;
+    display: inline-block;
+    
+}
+
+#centro{
+    background-color: aqua;
+    width: 520px;
+    height: 500px;
+    display: inline-block;
+}  
+
+#dir{
+    background-color: blue;
+    width: 400px;
+    height: 500px;
+    display: inline-block;
+}
+
+footer{
+    background-color: rgb(248, 182, 193);
+    height: 45px;
+
+}
